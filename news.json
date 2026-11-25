@@ -1,0 +1,80 @@
+{
+ "around": [
+  {
+   "lead": "Colombia",
+   "text": "Gunmen held hostages in a Cartagena supermarket after an armoured-car raid failed."
+  },
+  {
+   "lead": "Landmines",
+   "text": "Casualties hit a five-year high of 7,000, the annual Landmine Monitor found; Myanmar and Syria topped the list."
+  },
+  {
+   "lead": "Washington",
+   "text": "Hackers breached an unclassified CIA computer system; officials said no classified data was compromised."
+  }
+ ],
+ "cards": [
+  {
+   "body": "Asian shares tumbled — South Korea's Kospi fell as much as 5.3%, Taiwan 5.1% and Japan's Nikkei 2.9% — as the AI rally faded, Nvidia shedding 5.9%. Washington is poised to unveil new tariffs after an “excess capacity” probe of 16 trading partners.",
+   "chip": "ECONOMY · WORLD MARKETS",
+   "headline": "Markets slide as US tariff threat returns"
+  },
+  {
+   "body": "A federal jury convicted China's Huawei and three subsidiaries on 10 of 12 counts — bank and wire fraud, Iran sanctions violations and stealing US trade secrets — after a three-month trial. It was acquitted of racketeering conspiracy.",
+   "chip": "US–CHINA · LAW & TECHNOLOGY",
+   "headline": "Huawei convicted in New York trial"
+  },
+  {
+   "body": "China launched the Shenzhou-24 crew to its Tiangong space station carrying a Pakistani astronaut into orbit for the first time, deepening the two allies' partnership in space.",
+   "chip": "SPACE · CHINA",
+   "headline": "Shenzhou-24 flies first Pakistani astronaut"
+  },
+  {
+   "body": "Rescuers in West Java searched for about 30 workers trapped since Monday in a flooded, unauthorised gold mine in the Pongkor hills near Bogor.",
+   "chip": "ASIA-PACIFIC · INDONESIA",
+   "headline": "Race to free miners trapped 100 m down"
+  },
+  {
+   "body": "Consumer prices rose 3.6% in the year to October, up from 3.5% in September and a fourth increase in a row, as fuel and energy costs climbed, the Office for National Statistics said.",
+   "chip": "EUROPE · BRITAIN",
+   "headline": "UK inflation climbs to one-year high"
+  },
+  {
+   "body": "Australia's government formally apologised in parliament to current and former LGBTQ service members for decades of discriminatory policies, Defence Minister Richard Marles said.",
+   "chip": "OCEANIA · AUSTRALIA",
+   "headline": "Canberra apologises to LGBTQ veterans"
+  }
+ ],
+ "date_line": "Wednesday, 25 November 2026",
+ "footer": "Compiled from the day's reporting by Reuters, AFP, Al Jazeera, Channel NewsAsia, SCMP, The Japan Times and the US Department of Justice",
+ "lead": {
+  "body": "A Houthi drone hit the 80-storey PIF Tower, home to Saudi Arabia's sovereign wealth fund in the King Abdullah Financial District, wounding 11 people. The Saudi-led coalition condemned a “cowardly terrorist attack” in the war with Yemen's Iran-backed Houthis, reignited in July.",
+  "caption": "The 385-metre PIF Tower, Riyadh's tallest building — also hit last Thursday",
+  "headline": "Riyadh's tallest tower hit again",
+  "kicker": "MIDDLE EAST · RIYADH, SAUDI ARABIA"
+ },
+ "numbers": [
+  {
+   "label": "WOUNDED IN RIYADH STRIKE",
+   "value": "11"
+  },
+  {
+   "label": "BRENT CRUDE, A BARREL",
+   "value": "$90.97"
+  },
+  {
+   "label": "KOSPI, AT ITS WORST",
+   "value": "-5.3%"
+  },
+  {
+   "label": "UK INFLATION, A ONE-YEAR HIGH",
+   "value": "3.6%"
+  },
+  {
+   "label": "BITCOIN",
+   "value": "$59,257"
+  }
+ ],
+ "paper_name": "THE WORLD TODAY",
+ "strap": "The day's world news, summed up in a single picture — every story reported on Wednesday 25 November 2026"
+}
